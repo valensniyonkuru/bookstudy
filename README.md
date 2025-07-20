@@ -16,3 +16,7 @@ delete by id
 <img width="650" height="401" alt="image" src="https://github.com/user-attachments/assets/e89ac1a1-3d2f-4e61-961b-4114ebdb9159" />
 
 
+list of books
+-------------
+
+<img width="623" height="426" alt="image" src="https://github.com/user-attachments/assets/4504e7cb-4be1-4713-ab5f-300a7a2b9fe2" />
