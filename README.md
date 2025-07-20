@@ -10,3 +10,9 @@ update by id
 -------------
 <img width="644" height="426" alt="image" src="https://github.com/user-attachments/assets/2a21c51c-0c0a-4545-9d62-a3e78199c67c" />
 
+delete by id
+-------------
+
+<img width="650" height="401" alt="image" src="https://github.com/user-attachments/assets/e89ac1a1-3d2f-4e61-961b-4114ebdb9159" />
+
+
